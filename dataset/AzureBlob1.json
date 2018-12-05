@@ -6,6 +6,80 @@
 			"type": "LinkedServiceReference"
 		},
 		"type": "AzureBlob",
+		"structure": [
+			{
+				"name": "0",
+				"type": "String"
+			},
+			{
+				"name": "AAAAAAAAAAAAAAAA",
+				"type": "String"
+			},
+			{
+				"name": "1824793",
+				"type": "String"
+			},
+			{
+				"name": "3203",
+				"type": "String"
+			},
+			{
+				"name": "2555",
+				"type": "String"
+			},
+			{
+				"name": "28776",
+				"type": "String"
+			},
+			{
+				"name": "14690",
+				"type": "String"
+			},
+			{
+				"name": "Ms.",
+				"type": "String"
+			},
+			{
+				"name": "Marisa",
+				"type": "String"
+			},
+			{
+				"name": "Harrington",
+				"type": "String"
+			},
+			{
+				"name": "N",
+				"type": "String"
+			},
+			{
+				"name": "17",
+				"type": "String"
+			},
+			{
+				"name": "4",
+				"type": "String"
+			},
+			{
+				"name": "1988",
+				"type": "String"
+			},
+			{
+				"name": "UNITED ARAB EMIRATES",
+				"type": "String"
+			},
+			{
+				"name": "RRCyuY3XfE3a",
+				"type": "String"
+			},
+			{
+				"name": "Marisa.Harrington@lawyer.com",
+				"type": "String"
+			},
+			{
+				"name": "gdMmGdU9",
+				"type": "String"
+			}
+		],
 		"typeProperties": {
 			"format": {
 				"type": "TextFormat",
